@@ -1,6 +1,5 @@
-# secret_sauce_ai
-
 # Secret Sauce AI Program Overview
+
 
 
 # Introduction
