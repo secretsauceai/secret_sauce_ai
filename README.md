@@ -8,7 +8,7 @@
 - [Wake Word Problem Statements](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#wake-word-problem-statements)
     - [Proposed solutions](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#proposed-solutions)
 - [NLU-NLG Problem Statements]https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#nlu-nlg-problem-statements)
-    - [Proposed solutions]()
+    - [Proposed solutions](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#proposed-solutions-1)
 # Introduction
 
 Secret Sauce AI is an open source program (program in the sense of management, not software) for projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community. 
