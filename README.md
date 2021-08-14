@@ -2,12 +2,6 @@
 
 # Secret Sauce AI Program Overview
 
-Created: July 17, 2021 7:44 PM
-Created By: Bartmoss St. Clair
-Last Edited By: Bartmoss St. Clair
-Last Edited Time: August 12, 2021 2:12 PM
-Status: In Review 👀
-Type: Program Kickoff
 
 # Introduction
 
