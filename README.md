@@ -7,7 +7,7 @@
     - [Key vocabulary](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#key-vocabulary)
 - [Wake Word Problem Statements](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#wake-word-problem-statements)
     - [Proposed solutions](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#proposed-solutions)
-- [NLU-NLG Problem Statements]https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#nlu-nlg-problem-statements)
+- [NLU-NLG Problem Statements](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#nlu-nlg-problem-statements)
     - [Proposed solutions](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#proposed-solutions-1)
 # Introduction
 
