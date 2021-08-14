@@ -88,7 +88,7 @@ Each category will spin off projects that will provide the deliverables that wil
 - Turn Precise TF2 runner (engine) into binary or otherwise easy to use deployment
     - Many folks want to run it on Android too!
 
-For all the details of the solutions for the Wake Word project, see the wakeword project [documentation]().
+For all the details of the solutions for the Wake Word project, see the wakeword project [documentation](https://github.com/secretsauceai/secret_sauce_ai/wiki).
 
 # NLU-NLG Problem Statements
 
