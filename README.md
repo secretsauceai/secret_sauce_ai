@@ -1,5 +1,4 @@
 # Secret Sauce AI Program Overview
-https://github.com/secretsauceai/secret_sauce_ai#introduction
 - [Introduction](https://github.com/secretsauceai/secret_sauce_ai#introduction)
     - [Focus](https://github.com/secretsauceai/secret_sauce_ai#focus)
     - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy)
