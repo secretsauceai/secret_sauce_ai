@@ -63,4 +63,4 @@ Each category will spin off projects that will provide the deliverables that wil
 - improving architecture
 
 ## More information
-For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki and the [kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
+For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki and the [kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1). 
