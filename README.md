@@ -4,7 +4,7 @@
     - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy)
     - [Method](https://github.com/secretsauceai/secret_sauce_ai#method)
     - [Key vocabulary](https://github.com/secretsauceai/secret_sauce_ai#key-vocabulary)
-   - [Program resources](https://github.com/secretsauceai/secret_sauce_ai#program-resources)
+- [Program resources](https://github.com/secretsauceai/secret_sauce_ai#program-resources)
     - [Current project](https://github.com/secretsauceai/secret_sauce_ai#current-project)
     - [More information](https://github.com/secretsauceai/secret_sauce_ai#more-information)
 # Introduction
