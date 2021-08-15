@@ -4,6 +4,9 @@
     - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy)
     - [Method](https://github.com/secretsauceai/secret_sauce_ai#method)
     - [Key vocabulary](https://github.com/secretsauceai/secret_sauce_ai#key-vocabulary)
+   - [Program resources](https://github.com/secretsauceai/secret_sauce_ai#program-resources)
+    - [Current project](https://github.com/secretsauceai/secret_sauce_ai#current-project)
+    - [More information](https://github.com/secretsauceai/secret_sauce_ai#more-information)
 # Introduction
 
 Secret Sauce AI is an open source program (program in the sense of management, not software) for projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community. 
@@ -52,12 +55,12 @@ This method was first employed on the wake word problem(s), as this seems to be 
 Each category will spin off projects that will provide the deliverables that will greatly improve MVPs. The projects are there to help individuals achieve their MVPs.
 
 
-# More information
+# Program resources
 ## Current project: [wake word project](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wake-Word-Project)
 - data collection
 - data generation
 - creating optimal models
 - improving architecture
 
-## Program links
+## More information
 For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki and the [kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
