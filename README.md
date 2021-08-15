@@ -4,10 +4,6 @@
     - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy)
     - [Method](https://github.com/secretsauceai/secret_sauce_ai#method)
     - [Key vocabulary](https://github.com/secretsauceai/secret_sauce_ai#key-vocabulary)
-- [Wake Word Problem Statements](https://github.com/secretsauceai/secret_sauce_ai#wake-word-problem-statements)
-    - [Proposed solutions](https://github.com/secretsauceai/secret_sauce_ai#proposed-solutions)
-- [NLU-NLG Problem Statements](https://github.com/secretsauceai/secret_sauce_ai#nlu-nlg-problem-statements)
-    - [Proposed solutions](https://github.com/secretsauceai/secret_sauce_ai#proposed-solutions-1)
 # Introduction
 
 Secret Sauce AI is an open source program (program in the sense of management, not software) for projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community. 
@@ -55,43 +51,4 @@ This method was first employed on the wake word problem(s), as this seems to be 
 
 Each category will spin off projects that will provide the deliverables that will greatly improve MVPs. The projects are there to help individuals achieve their MVPs.
 
-## Key vocabulary
-
-- ***utterance:*** command, question, or query from a user (ie 'turn on the kitchen lights')
-- ***response:*** the written response to an utterance by the assistant/chatbot (ie 'I turned on the living room lights')
-- ***word slotting:*** often times a response is based on a template and words are slotted in to give a correct response, this can also include grammar (this is pretty easy in English, it's in other languages that templating becomes more complex and is often overlooked in the construction of such systems) (ie 'the living room lights are now on' template: the [entity] [singular|plural] now on)
-- ***tagged words:*** utterances can contain inputs for actions and/or responses, these are referred to as entities, tagging these entities is also known as NER (named entity recognition) (ie 'turn on the kitchen lights', entity: kitchen lights)
-- ***intent:*** when an utterance is classified for its action and or response (some systems use the tagged words to find intent, others use the whole utterance) (ie 'turn on the kitchen lights' -> skill: home assistant, action: turn on/off, entity: kitchen lights)
-- ***NLU:*** natural language understanding, this usually describes finding the intent and word tagging more generally (ie NLU engine, an engine that performs the intent classification and word tagging)
-- ***NLG:*** natural language generation, this describes the creation of responses to utterances. It can include actual generation (using some kind of language model that requires the utterance as prompt), or the more common approach of using templates and word slotting.
-- ***ASR:*** automated speech recognition, also known as STT, speech to text.
-- ***wakeword:*** a specific word or phrase (for best results it should be at least 3 syllables) trained into a binary class acoustic model (wakeword or not-wakeword) used to activate the ASR (ie 'hey jarvis')
-- ***TTS:*** text to speech
-- ***NLP:*** natural language processing, this covers all of these tasks and many more
-
-# Wake Word Problem Statements
-
-- Pipeline
-    - Many deprecated and/or closed-source solutions (ie Snowboy or Porcupine) and outdated or otherwise limited solutions (ie Pocketsphinx)
-    - Only open source solution (Precise) is old (tf 1.13), heavy (26kb, uses ~25-30% CPU on raspi4 at all times).
-- Data collection/training
-    - Hard to train good models without deep knowledge and lots of data
-
-## Proposed Solutions
-
-- Create easy way to:
-    - ~~collect data~~  (prototype done)
-    - train optimal models (in progress: ALMOST DONE!)
-- ~~Migrate Precise to tflite~~ (done)
-- Experiment with optimal compression of tflite model
-- Turn Precise TF2 runner (engine) into binary or otherwise easy to use deployment
-    - Many folks want to run it on Android too!
-
-For all the details of the solutions for the Wake Word project, see the wakeword project [documentation](https://github.com/secretsauceai/secret_sauce_ai/wiki).
-
-# NLU-NLG Problem Statements
-
-The NLU-NLG project documentation, much like the NLU-NLG project itself, is still a work in progress. Stay tuned. It will be formalized once the prototype wake word project is completed. 🙂
-
-## Proposed Solutions
-
+For more information, check out the general [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) or the wake word project on the wiki.
