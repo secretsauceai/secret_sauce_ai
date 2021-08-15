@@ -51,4 +51,13 @@ This method was first employed on the wake word problem(s), as this seems to be 
 
 Each category will spin off projects that will provide the deliverables that will greatly improve MVPs. The projects are there to help individuals achieve their MVPs.
 
-For more information, check out the general [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) or the wake word project on the wiki.
+
+# More information
+## Current project: [wake word project](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wake-Word-Project)
+- data collection
+- data generation
+- creating optimal models
+- improving architecture
+
+## Program links
+For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki and the [kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
