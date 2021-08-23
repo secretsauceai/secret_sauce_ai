@@ -9,7 +9,9 @@
     - [More information](https://github.com/secretsauceai/secret_sauce_ai#more-information)
 # Introduction
 
-Secret Sauce AI is an open source program (program in the sense of management, not software) for projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community. 
+Secret Sauce AI is an open source program (program in the sense of management, not software) for projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community.
+
+You can also go straight to [Secret Sauce AI Program Board](https://github.com/secretsauceai/secret_sauce_ai/projects/1) to check out the status of issues in the projects as well as open questions the community is working on. 
 
 ## Focus
 
@@ -54,7 +56,6 @@ This method was first employed on the wake word problem(s), as this seems to be 
 
 Each category will spin off projects that will provide the deliverables that will greatly improve MVPs. The projects are there to help individuals achieve their MVPs.
 
-
 # Program resources
 ## Current project: [wake word project](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wake-Word-Project)
 - data collection
@@ -63,4 +64,6 @@ Each category will spin off projects that will provide the deliverables that wil
 - improving architecture
 
 ## More information
-For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki and the [kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1). 
+For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki.
+
+To follow general progress on projects and open questions the community is working on have a look at the [program board](https://github.com/secretsauceai/secret_sauce_ai/projects/1). 
