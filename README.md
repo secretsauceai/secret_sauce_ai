@@ -25,7 +25,7 @@ Secret Sauce AI is an open source program (program in the sense of management, n
 
 ## Philosophy
 
-How many folks want their own AI, but even though we live in the future from our childhood dreams, it doesn't seem any closer. The open source community isn't there yet. With Secret Sauce AI, we help people achieve their dreams of their own personal AI by providing that secret sauce flavor.
+How many folks want their own AI, but even though we live in the future from our childhood dreams, it doesn't seem any closer. The open source community isn't there yet. With Secret Sauce AI, we help the community achieve those dreams of their own personal AI by providing that secret sauce flavor.
 
 Note the term 'personal AI'. Everyone has their own use cases, their own ideas. The AI has to be modular and customizable to realize these dreams. But it needs one more component, the most important of all...
 
