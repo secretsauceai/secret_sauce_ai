@@ -80,7 +80,6 @@ Each category will spin off projects that will provide the deliverables that wil
 For the casual reader, these subjects can be hard to understand (how voice assistants actually work can be quite complicated), but since it seems there is a lot of interest about our projects from casual users, let's introduce this subject. let's start with some basic vocabulary.
 
 ## Key vocabulary
-
 - ***utterance:*** command, question, or query from a user (ie 'turn on the kitchen lights')
 - ***response:*** the written response to an utterance by the assistant/chatbot (ie 'I turned on the living room lights')
 - ***word slotting:*** often times a response is based on a template and words are slotted in to give a correct response, this can also include grammar (this is pretty easy in English, it's in other languages that templating becomes more complex and is often overlooked in the construction of such systems) (ie 'the living room lights are now on' template: the [entity] [singular|plural] now on)
@@ -102,7 +101,7 @@ Let's walk through a concrete example: a user wants to wake up the voice assista
 
 - ASR: the ASR transcribes the utterance into a normalized text (what's the weather like in Munich tomorrow)
 - NLU: the uttrance {'what's the weather like tomorrow in Munich'}, is broken down by intent and the entities (key words) 'intent': 'weather_forecast', 'entities': {'date-time': 'tomorrow', 'location': 'Munich'}
-- the weather skill contains instructions on how to input the entities are passed to the API to get the weather forecast for the date that is 'tomorrow' for 'Munich'
+- the weather skill contains instructions on how the entities are passed to the API to get the weather forecast for the date that is 'tomorrow' for 'Munich'
 - NLG: the information provided by the weather API is formatted (slotted) usually using a response template response: '{tomorrow} in {Munich} it will be {cloudy} with a high of {22} and a low of {13} degrees'
 - TTS: the TTS reads the NLG response out loud for the user.
 
