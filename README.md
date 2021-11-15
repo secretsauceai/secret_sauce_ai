@@ -61,8 +61,8 @@ Each category will spin off projects that will provide the deliverables that wil
 - creating optimal models
 - improving architecture
 
-# Introduction to voice assistant data pipelines
-Voice assistants are quite complicated, if you aren't familar with the pipeline, let's start with some basic vocabulary.
+# For the casual reader: introduction to voice assistant data pipelines
+For the casual reader, these subjects can be hard to understand (how voice assistants actually work can be quite complicated), but since it seems there is a lot of interest about our projects from casual users, let's introduce this subject. let's start with some basic vocabulary.
 
 ## Key vocabulary
 
