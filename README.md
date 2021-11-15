@@ -4,7 +4,7 @@
     - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy)
     - [Method](https://github.com/secretsauceai/secret_sauce_ai#method)
 - [Program resources](https://github.com/secretsauceai/secret_sauce_ai#program-resources)
-    - [Current project](https://github.com/secretsauceai/secret_sauce_ai#current-project)
+    - [Current projects](https://github.com/secretsauceai/secret_sauce_ai#current-project)
     - [More information](https://github.com/secretsauceai/secret_sauce_ai#more-information)
 # Introduction
 
@@ -60,6 +60,36 @@ Each category will spin off projects that will provide the deliverables that wil
 - data generation
 - creating optimal models
 - improving architecture
+
+# Introduction to voice assistant data pipelines
+Voice assistants are quite complicated, if you aren't familar with the pipeline, let's start with some basic vocabulary.
+
+## Key vocabulary
+
+- ***utterance:*** command, question, or query from a user (ie 'turn on the kitchen lights')
+- ***response:*** the written response to an utterance by the assistant/chatbot (ie 'I turned on the living room lights')
+- ***word slotting:*** often times a response is based on a template and words are slotted in to give a correct response, this can also include grammar (this is pretty easy in English, it's in other languages that templating becomes more complex and is often overlooked in the construction of such systems) (ie 'the living room lights are now on' template: the [entity] [singular|plural] now on)
+- ***tagged words:*** utterances can contain inputs for actions and/or responses, these are referred to as entities, tagging these entities is also known as NER (named entity recognition) (ie 'turn on the kitchen lights', entity: kitchen lights)
+- ***intent:*** when an utterance is classified for its action and or response (some systems use the tagged words to find intent, others use the whole utterance) (ie 'turn on the kitchen lights' -> skill: home assistant, action: turn on/off, entity: kitchen lights)
+- ***NLU:*** natural language understanding, this usually describes finding the intent and word tagging more generally (ie NLU engine, an engine that performs the intent classification and word tagging)
+- ***NLG:*** natural language generation, this describes the creation of responses to utterances. It can include actual generation (using some kind of language model that requires the utterance as prompt), or the more common approach of using templates and word slotting.
+- ***ASR:*** automated speech recognition, also known as STT, speech to text.
+- ***wakeword:*** a specific word or phrase (for best results it should be at least 3 syllables) trained into a binary class acoustic model (wakeword or not-wakeword) used to activate the ASR (ie 'hey jarvis')
+- ***TTS:*** text to speech
+- ***NLP:*** natural language processing, this covers all of these tasks and many more
+
+## Voice assistant pipeline
+Let's take a look at the basic components. It starts with a user who wants to 'wake' the voice assiant. Once the system is listening, the user speaks the utterance and its transcribed. After transciption it is processed for intent to figure out the meaning. Once the meaning (intent) has been extracted from the utterance, the voice assistant does the requested task triggered by the intent. A response is generated which is spoken by the text to speech system.
+
+Let's walk through a concrete example: a user wants to wake up the voice assistant and ask 'what's the weather like in Munich tomorrow'.
+
+- Wake word (hot word): usually a binary acoustic model that constantly runs in the background to spot the wake word (ie 'hey Jarvis')
+
+- ASR: the ASR transcribes the utterance into a normalized text (what's the weather like in Munich tomorrow)
+- NLU: the uttrance {'what's the weather like tomorrow in Munich'}, is broken down by intent and the entities (key words) 'intent': 'weather_forecast', 'entities': {'date-time': 'tomorrow', 'location': 'Munich'}
+- the weather skill contains instructions on how to input the entities are passed to the API to get the weather forecast for the date that is 'tomorrow' for 'Munich'
+- NLG: the information provided by the weather API is formatted (slotted) usually using a response template response: '{tomorrow} in {Munich} it will be {cloudy} with a high of {22} and a low of {13} degrees'
+- TTS: the TTS reads the NLG response out loud for the user.
 
 ## More information
 For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki.
