@@ -98,8 +98,7 @@ Let's take a look at the basic components. It starts with a user who wants to 'w
 Let's walk through a concrete example: a user wants to wake up the voice assistant and ask 'what's the weather like in Munich tomorrow'.
 
 - Wake word (hot word): usually a binary acoustic model that constantly runs in the background to spot the wake word (ie 'hey Jarvis')
-
-- ASR: the ASR transcribes the utterance into a normalized text (what's the weather like in Munich tomorrow)
+- ASR: once the wake word has been identified, this triggers the ASR to transcribe the utterance into a normalized text (what's the weather like in Munich tomorrow)
 - NLU: the uttrance {'what's the weather like tomorrow in Munich'}, is broken down by intent and the entities (key words) 'intent': 'weather_forecast', 'entities': {'date-time': 'tomorrow', 'location': 'Munich'}
 - the weather skill contains instructions on how the entities are passed to the API to get the weather forecast for the date that is 'tomorrow' for 'Munich'
 - NLG: the information provided by the weather API is formatted (slotted) usually using a response template response: '{tomorrow} in {Munich} it will be {cloudy} with a high of {22} and a low of {13} degrees'
