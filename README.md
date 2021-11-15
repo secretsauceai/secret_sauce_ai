@@ -5,6 +5,7 @@
     - [Method](https://github.com/secretsauceai/secret_sauce_ai#method)
 - [Program resources](https://github.com/secretsauceai/secret_sauce_ai#program-resources)
     - [Current projects](https://github.com/secretsauceai/secret_sauce_ai#current-project)
+ - [Introduction to voice assistant data pipelines](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines)
     - [More information](https://github.com/secretsauceai/secret_sauce_ai#more-information)
 # Introduction
 
@@ -62,6 +63,15 @@ Each category will spin off projects that will provide the deliverables that wil
 - data generation
 - creating optimal models
 - improving architecture
+- benchmarking solutions
+- automating the model generation data pipeline
+
+## Current project: [NLU project]()
+- protype NLU solutions for teaching and benchmarking purposes
+- improve open source data set for voice assistants
+- general benchmark of methods for performance vs resource usage (f1 scores of intent and entity extraction vs CPU% for training and inference)
+- deep dive into current production solutions for NLU
+- create modular NLU engine design (hot swap out classifiers)
 
 # For the casual reader: introduction to voice assistant data pipelines
 For the casual reader, these subjects can be hard to understand (how voice assistants actually work can be quite complicated), but since it seems there is a lot of interest about our projects from casual users, let's introduce this subject. let's start with some basic vocabulary.
