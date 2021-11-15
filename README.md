@@ -39,6 +39,7 @@ The method statement is simple yet is complex because an AI (voice) assistant co
     - requirements
     - blockers
     - open questions (problem statements)
+    - benchmarking possible methods
     - resources
 - Break down the general domain of AI (voice) assistants (wake word, ASR, NLU, NLG, TTS, etc.) by category and:
     - blockers
