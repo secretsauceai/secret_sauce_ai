@@ -28,15 +28,18 @@ Although this community is geared toward developers in the FOSS (voice) AI assis
 
 ## Philosophy
 
-How many folks want their own AI, but even though we live in the future from our childhood dreams, it doesn't seem any closer. The open source community isn't there yet. With Secret Sauce AI, we help the community achieve those dreams of their own personal AI by providing that secret sauce flavor.
+How many folks want their own AI, but even though we live in the future from our childhood dreams, it doesn't seem any closer. The open source community isn't there yet. With Secret Sauce AI, we help the community achieve those dreams of their own personal AI by providing that secret sauce flavor by bringing the community together, to focus on AI solutions.
 
 Note the term 'personal AI'. Everyone has their own use cases, their own ideas. The AI has to be modular and customizable to realize these dreams. But it needs one more component, the most important of all...
 
 It needs to learn from the user's interactions (without the user having to program it!). If an AI can't learn, it isn't an AI. People will have a lot more patients for an AI that actually learns. When they know they can teach it, they will want to treat it more like a child and they will be even more immersed in the 'Wizard of Oz' effect. 
 
-## Method
+Finally, we really respect user's privacy. Normally, voice assistants are glorified data scrapers and the models and methods used within the voice assistant are supposed to be a 'once size fits all' approach. However, if there is one thing we have learned from doing this professionally and personally for years is: there is no such thing as a general model that works for everyone. To achieve privacy and 'real AI' that can learn from the user, we avocate 'TinyML'. 
 
-The method statement is simple yet is complex because an AI (voice) assistant covers a broad domain of disciplines and the process is also iterative:
+Simple put: instead of general models based on collection of user's personal data, the data stays on the user's device where it is used to train a model locally. This local model belongs to the user, just as much as the data used to train this model. As the system collects more data, it improves. This accomplishes our goals of user privacy while creating AI that can learn and grow. 
+
+## Method
+General what is our approach to solving these problems? The method statement is simple yet is complex because an AI (voice) assistant covers a broad domain of disciplines and the process is also iterative:
 
 - Define your personal MVP
     - requirements
