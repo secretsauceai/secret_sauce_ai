@@ -24,6 +24,9 @@ Secret Sauce AI is made out of 3 main ingredients:
 * Program
 * Philosophy
 
+
+
+
 ### Community
 We are nothing without the community behind us, and this is why community always comes first. There are (currently) 4 defined roles:
 * Developer
