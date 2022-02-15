@@ -18,7 +18,7 @@ Although this community is geared toward developers in the FOSS (voice) AI assis
 
 <img align="left" height=35% width=35% src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/SSAI_3_main_ingredients_compressed_cropped.png " />
 
-## Ingredients
+# Ingredients
 Secret Sauce AI is made out of 3 main ingredients:
 * Community
 * Program
@@ -29,7 +29,7 @@ Secret Sauce AI is made out of 3 main ingredients:
 <br/>
 <br/>
 
-### Community
+## Community
 We are nothing without the community behind us, and this is why community always comes first. There are (currently) 4 defined roles:
 * Developer
 * Data scientist
@@ -38,16 +38,16 @@ We are nothing without the community behind us, and this is why community always
 
 Our current focus is on developers and data scientists. These are the folks that are building the technology that will trickle down to tinkerkers and users.
 
-#### Are you a developer or data scientist interested in joining our community?
+### Are you a developer or data scientist interested in joining our community?
 After reading through our program overview and other relevent links:
-* join our [slack](https://join.slack.com/t/secretsauceorg/shared_invite/zt-12aqaii01-l~nu2078PyeGZDk0L6vl7Q)
 * check out our [program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
 * have a look at the [program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
+* join our [slack](https://join.slack.com/t/secretsauceorg/shared_invite/zt-12aqaii01-l~nu2078PyeGZDk0L6vl7Q)
 
-#### I'm a tinkerer or user, what about me?
-We don't want to leave anyone out, but our scope is currently pretty limited in engaging users and tinkers. You can always write me directly on [reddit](https://www.reddit.com/user/Bartmoss) or you can check out many of the projects built for users and tinkers alike by our community. 
+### I'm a tinkerer or user, what about me?
+We don't want to leave anyone out, but our scope is currently pretty limited in engaging users and tinkers. You can always write me (Bartmoss) directly on [reddit](https://www.reddit.com/user/Bartmoss) or you can check out many of the projects built for users and tinkers alike by our community. 
 
-#### Member Projects
+### Member Projects
 A lot of our Secret Sauce AI members build FOSS voice assistant software. It is always worth checking their software out. We just love this community!
 * [OpenVoiceOS](https://openvoiceos.com/)
 * [Athena](https://github.com/Tadashi-Hikari/Athena) and [The Sapphire Assistant Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework)
