@@ -12,9 +12,12 @@
     - [More information](https://github.com/secretsauceai/secret_sauce_ai#more-information)
 # Introduction
 
-Secret Sauce AI is an open source program (program in the sense of management, not software) for projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community.
+Secret Sauce AI is a coordinated community of tech minded AI enthusiasts working together on projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community.
 
 Although this community is geared toward developers in the FOSS (voice) AI assistant community, we hope our projects will trickle down to end users. If you are reading this as a casual reader, it is recommened to read the [introduction to voice assistants](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines) first to have a bit of background on this subject. 
+
+<img align="left src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/SSAI_3_main_ingredients_compressed_cropped.png")
+Secret Sauce AI is made out of 3 main ingredients 
 
 ## Focus
 
