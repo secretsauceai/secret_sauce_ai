@@ -14,7 +14,7 @@
 
 Secret Sauce AI is a coordinated community of tech minded AI enthusiasts working together on projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS) mostly geared for deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community.
 
-Although this community is geared toward developers in the FOSS (voice) AI assistant community, we hope our projects will trickle down to end users. If you are reading this as a casual reader, it is recommened to read the [introduction to voice assistants](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines) first to have a bit of background on this subject. 
+Although this community is geared toward developers and data scientists in the FOSS (voice) AI assistant community, we hope our projects will trickle down to end users. If you are reading this as a casual reader, it is recommened to read the [introduction to voice assistants](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines) first to have a bit of background on this subject. 
 
 <img align="left" height=35% width=35% src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/SSAI_3_main_ingredients_compressed_cropped.png " />
 
@@ -45,7 +45,7 @@ After reading through our program overview and other relevent links:
 * join our [slack](https://join.slack.com/t/secretsauceorg/shared_invite/zt-12aqaii01-l~nu2078PyeGZDk0L6vl7Q)
 
 ### I'm a tinkerer or user, what about me?
-We don't want to leave anyone out, but our scope is currently pretty limited in engaging users and tinkers. You can always write me (Bartmoss) directly on [reddit](https://www.reddit.com/user/Bartmoss) or you can check out many of the projects built for users and tinkers alike by our community. 
+We don't want to leave anyone out, but our scope is currently pretty limited in engaging users and tinkers. You can always write me (Bartmoss) directly on [reddit](https://www.reddit.com/user/Bartmoss) or you can check out many of the projects built for users and tinkerers alike by our community. 
 
 ### Member Projects
 A lot of our Secret Sauce AI members build FOSS voice assistant software. It is always worth checking their software out. We just love this community!
@@ -55,18 +55,16 @@ A lot of our Secret Sauce AI members build FOSS voice assistant software. It is 
 * [Leon AI](https://getleon.ai/)
 * [GLaDOS Voice Assistant](https://github.com/Nerdaxic/GLaDOS-Voice-Assistant)
 
-## Focus
+## Program
+A community must coordinate to be more than the mere sum of its parts. We believe heavily in Agile management, but with an open source twist. Applying traditional project management practices geared for business doesn't always work well in a free and open community made up of people who do what they do on voluntary basis out of a deep seated passion for AI. Therefore, we try to reduce the risks of these kinds of projects and focus on bringing maxmimum value by rapidly prototyping over building end user solutions. By engaging the community at large and showing the value of the deliverables, those prototypes can trickle down to power future AI in software for end users.
 
-- tools
-    - data collection
-    - other small automation tools (automate: tutorials, how to's, recipes, etc. as CLIs, skills, and/or web tools)
-- modular (can swap out components easily for customization, ie microservices)
-- tweaking existing open source resources for improvements
-- emphasis on 'tiny ML' and user-based data collection (data collection driven)
-    - system learns from the user
-    - data collection stays on the local device, it belongs to the user!
-- documentation and how to's to help folks setup their own AI
-    - Get a user onboarded by asking: "what's your personal AI (voice) assistant's MVP?"
+### Projects
+* [Wakeword](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wake-Word-Project)
+* NLU-NLG
+* ASR-TTS
+* Bus
+
+TODO: Add project descriptions
 
 ## Philosophy
 
