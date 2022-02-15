@@ -16,8 +16,7 @@ Secret Sauce AI is a coordinated community of tech minded AI enthusiasts working
 
 Although this community is geared toward developers in the FOSS (voice) AI assistant community, we hope our projects will trickle down to end users. If you are reading this as a casual reader, it is recommened to read the [introduction to voice assistants](https://github.com/secretsauceai/secret_sauce_ai/blob/main/README.md#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines) first to have a bit of background on this subject. 
 
-<img align="left" height=50% weight=50% src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/SSAI_3_main_ingredients_compressed_cropped.png?raw=true">
-Secret Sauce AI is made out of 3 main ingredients 
+<img align="left" height=30% weight=30% src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/SSAI_3_main_ingredients_compressed_cropped.png?raw=true">Secret Sauce AI is made out of 3 main ingredients 
 
 ## Focus
 
