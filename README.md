@@ -23,7 +23,7 @@ Secret Sauce AI is made out of 3 main ingredients:
 * Community
 * Program
 * Philosophy
-
+<br/>
 <br/>
 <br/>
 <br/>
