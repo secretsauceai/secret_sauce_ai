@@ -62,7 +62,7 @@ A lot of our Secret Sauce AI members build FOSS voice assistant software. It is 
 A community must coordinate to be more than the mere sum of its parts. We believe heavily in Agile management, but with an open source twist. Applying traditional project management practices geared for business doesn't always work well in a free and open community made up of people who do what they do on voluntary basis out of a deep seated passion for AI. Therefore, we try to reduce the risks of these kinds of projects and focus on bringing maxmimum value by rapidly prototyping over building end user solutions. By engaging the community at large and showing the value of the deliverables, those prototypes can trickle down to power future AI in software for end users.
 
 ### Projects
-* [Wakeword](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wake-Word-Project)
+* [Wakeword](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wakeword-Project)
 * NLU-NLG
 * ASR-TTS
 * Bus
