@@ -3,7 +3,7 @@
 
 # Secret Sauce AI Overview (under heavy construction!)
 - [Introduction](https://github.com/secretsauceai/secret_sauce_ai#introduction)
-- [The Three Secret Sauce AI Ingredients](https://github.com/secretsauceai/secret_sauce_ai#ingredients)
+- [The three Secret Sauce AI ingredients](https://github.com/secretsauceai/secret_sauce_ai#ingredients)
     - [Community](https://github.com/secretsauceai/secret_sauce_ai#community)
     - [Program](https://github.com/secretsauceai/secret_sauce_ai#program)
     - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy)
