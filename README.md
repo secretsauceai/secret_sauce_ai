@@ -89,7 +89,7 @@ A community must coordinate to be more than the mere sum of its parts. We believ
 * Benchmarks show benefit: compare solutions and cearly communicate the differences
 * AI over hard coding and AI is only AI if it can learn directly from the users
 
-To completely respect a user's privacy while collecting data we find that it is best to keep the data on the user's system and run the machine learning totally locally. A similar approach when applied to running model inference locally is called TinyML. We call our approach TinyML+, the plus stands for training. With this TinyML+ approach, we can fulfil the principle of AI. 
+To completely respect a user's privacy while collecting data we find that it is best to keep the data on the user's system and run the machine learning totally locally. A similar approach when applied to running model inference locally is called [TinyML](https://www.tinyml.org/). We call our approach TinyML+, the plus stands for training. With this TinyML+ approach, we can fulfil the principle of AI. 
 
 
 <img align="right" height=50% width=50% src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/TinyML%2B_learning_lifecycle.png"/>
@@ -97,44 +97,6 @@ Data is collected from the user, a model is trained from the data, the model is 
 
 
 Simple put: instead of general models based on collection of user's personal data, the data stays on the user's device where it is used to train a model locally. This local model belongs to the user, just as much as the data used to train this model. As the system collects more data, it improves. This accomplishes our value of user privacy while creating AI that can learn and grow. 
-
-## Method
-General what is our approach to solving these problems? The method statement is simple yet is complex because an AI (voice) assistant covers a broad domain of disciplines and the process is also iterative:
-
-- Define your personal MVP
-    - requirements
-    - blockers
-    - open questions (problem statements)
-    - benchmarking possible methods
-    - resources
-- Break down the general domain of AI (voice) assistants (wake word, ASR, NLU, NLG, TTS, etc.) by category and:
-    - blockers
-    - how to's
-    - open questions (problem statements)
-    - resources
-- Align the aspects of your MVP with that of the general domain categories (surprise, everyone has the same problems you do!)
-- Prioritize work on the aligned components based on difficulty, always pick the lowest hanging fruit first
-- Repeat
-
-This method was first employed on the wake word problem(s), as this seems to be a quintessential problem of voice assistants. Almost all voice assistant systems require a good wake word system and none exists. Although in comparison to other categories, it could be called the lowest hanging fruit (less problems to solve, easier to scope, partial solutions exist). It was the hope of the program that this would galvanize the open source AI (voice) assistant community and in the process provide valuable deliverables that would unblock individuals' MVPs. 
-
-Each category will spin off projects that will provide the deliverables that will greatly improve MVPs. The projects are there to help individuals achieve their MVPs.
-
-# Program resources
-## Current project: [wake word project](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wake-Word-Project)
-- data collection
-- data generation
-- creating optimal models
-- improving architecture
-- benchmarking solutions
-- automating the model generation data pipeline
-
-## Current project: [NLU project]()
-- protype NLU solutions for teaching and benchmarking purposes
-- improve open source data set for voice assistants
-- general benchmark of methods for performance vs resource usage (f1 scores of intent and entity extraction vs CPU% for training and inference)
-- deep dive into current production solutions for NLU
-- create modular NLU engine design (hot swap out classifiers)
 
 # For the casual reader: introduction to voice assistant data pipelines
 For the casual reader, these subjects can be hard to understand (how voice assistants actually work can be quite complicated), but since it seems there is a lot of interest about our projects from casual users, let's introduce this subject. let's start with some basic vocabulary.
