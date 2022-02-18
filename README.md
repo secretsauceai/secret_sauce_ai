@@ -96,6 +96,8 @@ Data is collected from the user, a model is trained from the data, the model is 
 
 Simple put: instead of general models based on collection of user's personal data, the data stays on the user's device where it is used to train a model locally. This local model belongs to the user, just as much as the data used to train this model. As the system collects more data, it improves. This accomplishes our value of user privacy while creating AI that can learn and grow. 
 
+<br/>
+
 # For the casual reader: introduction to voice assistant data pipelines
 For the casual reader, these subjects can be hard to understand (how voice assistants actually work can be quite complicated), but since it seems there is a lot of interest about our projects from casual users, let's introduce this subject. let's start with some basic vocabulary.
 
