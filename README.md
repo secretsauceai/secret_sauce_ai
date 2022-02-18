@@ -125,8 +125,3 @@ Let's walk through a concrete example: a user wants to wake up the voice assista
 - the weather skill contains instructions on how the entities are passed to the API to get the weather forecast for the date that is 'tomorrow' for 'Munich'
 - NLG: the information provided by the weather API is formatted (slotted) usually using a response template response: '{tomorrow} in {Munich} it will be {cloudy} with a high of {22} and a low of {13} degrees'
 - TTS: the TTS reads the NLG response out loud for the user.
-
-## More information
-For more information, check out the detailed [program overview](https://github.com/secretsauceai/secret_sauce_ai/wiki) on the wiki.
-
-You can also go straight to [Secret Sauce AI Program Board](https://github.com/secretsauceai/secret_sauce_ai/projects/1) to check out the status of issues in the projects as well as open questions the community is working on. 
