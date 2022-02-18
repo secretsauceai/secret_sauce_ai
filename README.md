@@ -90,13 +90,18 @@ A community must coordinate to be more than the mere sum of its parts. We believ
 
 <img align="right" height=50% width=50% src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/TinyML%2B_learning_lifecycle.png"/>
 
-To completely respect a user's privacy while collecting data, we find that it is best to keep the data on the user's system and run the machine learning totally locally. A similar approach when applied to running model inference locally is called [TinyML](https://www.tinyml.org/). We call our approach *TinyML+*, the plus stands for training. With this TinyML+ approach, we can fulfil the principle of AI. 
+To completely respect a user's privacy while collecting data, we find that it is best to keep the data on the user's system and run the machine learning totally locally.
+
+A similar approach when applied to running model inference locally is called [TinyML](https://www.tinyml.org/). We call our approach *TinyML+*, the plus stands for training. With this TinyML+ approach, we can fulfil the principle of AI. 
 
 
 In the TinyML+ learning cycle, data is collected from the user, a model is trained from the data, the model is used by the user where defects can be found, and further data collection leads to a closed cycle of learning. 
 
 Simple put: instead of general models based on collection of user's personal data, the data stays on the user's device where it is used to train a model locally. This local model belongs to the user, just as much as the data used to train this model. As the system collects more data, it improves. This accomplishes our value of user privacy while creating AI that can learn and grow. 
 
+<br/>
+<br/>
+<br/>
 
 # For the casual reader: introduction to voice assistant data pipelines
 For the casual reader, these subjects can be hard to understand (how voice assistants actually work can be quite complicated), but since it seems there is a lot of interest about our projects from casual users, let's introduce this subject. let's start with some basic vocabulary.
