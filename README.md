@@ -61,13 +61,23 @@ A lot of our Secret Sauce AI members build FOSS voice assistant software. It is 
 ## Program
 A community must coordinate to be more than the mere sum of its parts. We believe heavily in Agile management, but with an open source twist. Applying traditional project management practices geared for business doesn't always work well in a free and open community made up of people who do what they do on voluntary basis out of a deep seated passion for AI. Therefore, we try to reduce the risks of these kinds of projects and focus on bringing maxmimum value by rapidly prototyping over building end user solutions. By engaging the community at large and showing the value of the deliverables, those prototypes can trickle down to power future AI in software for end users.
 
-### Projects
-* [Wakeword](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wakeword-Project)
-* NLU-NLG
-* ASR-TTS
-* Bus
+* [Program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
+* [Program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
 
-TODO: Add project descriptions
+### Projects
+* [Wakeword](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wakeword-Project) (phase 1 of project complete)
+    * [Wakeword Data Collector](https://github.com/secretsauceai/wakeword-data-collector) (prototype done)
+    * [Precise Wakeword Model Maker](https://github.com/secretsauceai/precise-wakeword-model-maker) (prototype done)
+    * [Precise TensorFlow lite engine](https://github.com/OpenVoiceOS/precise-lite) (done)
+    * [SpeechPy MFCC in Rust](https://github.com/secretsauceai/mfcc-rust) (in progress)
+    * [Precise Rust runner](https://github.com/sheosi/precise-rs) (prototype in testing)
+* NLU-NLG (phase 1 of project in progress)
+    * [NLU engine prototype example and benchmarks](https://github.com/secretsauceai/NLU-engine-prototype-benchmarks) (in progress)
+    * [Snips data set converter](https://github.com/secretsauceai/NLU-snips-converter) (in progress)
+* ASR-TTS
+* Bus (phase 1 of project in progress)
+    * [Voice Assistant Protocol (VAP)](https://github.com/secretsauceai/voice-assistant-protocol) (in progress)
+
 
 ## Philosophy
 
