@@ -1,7 +1,7 @@
 ![Secret Sauce AI](https://github.com/secretsauceai/secret_sauce_ai/blob/main/SSAI_logo_2.3_compressed_cropped.png?raw=true)
 ## tl;dr a coordinated community of tech minded AI enthusiasts
 
-# Secret Sauce AI Overview (under heavy construction!)
+# Secret Sauce AI Overview
 - [Introduction](https://github.com/secretsauceai/secret_sauce_ai#introduction)
 - [The three Secret Sauce AI ingredients](https://github.com/secretsauceai/secret_sauce_ai#ingredients)
     - [Community](https://github.com/secretsauceai/secret_sauce_ai#community)
