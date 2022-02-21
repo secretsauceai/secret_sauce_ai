@@ -84,7 +84,7 @@ A community must coordinate to be more than the mere sum of its parts. We believ
 * Data
 
 ### Principles
-* Benchmarks show benefit: compare solutions and cearly communicate the differences
+* Benchmarks show benefit: compare solutions and clearly communicate the differences
 * AI over hard coding
 * AI is only AI if it can learn directly from the users
 
