@@ -43,7 +43,7 @@ Our current focus is on developers and data scientists. These are the folks that
 After reading through our program overview and other relevent links:
 * check out our [program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
 * have a look at the [program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
-* join our [slack](https://join.slack.com/t/secretsauceorg/shared_invite/zt-12aqaii01-l~nu2078PyeGZDk0L6vl7Q)
+* join our [slack](https://join.slack.com/t/secretsauceorg/shared_invite/zt-13u24g71z-5dUqoH8OGN4QpQffUIJANQ)
 
 ### I'm a tinkerer or user, what about me?
 We don't want to leave anyone out, but our scope is currently pretty limited in engaging users and tinkers. You can always write me (Bartmoss) directly on [reddit](https://www.reddit.com/user/Bartmoss) or you can check out many of the projects built for users and tinkerers alike by our community. 
