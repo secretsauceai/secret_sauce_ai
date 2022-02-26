@@ -122,7 +122,7 @@ For the casual reader, these subjects can be hard to understand (how voice assis
 
 ## Voice assistant pipeline
 ![Voice assistant pipeline](https://github.com/secretsauceai/secret_sauce_ai/blob/main/Voice_Assistant_Pipeline.png)
-Let's take a look at the basic components. It starts with a user who wants to 'wake' the voice assiant. Once the system is listening, the user speaks the utterance and its transcribed. After transciption it is processed for intent to figure out the meaning. Once the meaning (intent) has been extracted from the utterance, the voice assistant does the requested task triggered by the intent. A response is generated which is spoken by the text to speech system.
+Let's take a look at the basic components. It starts with a user who wants to 'wake' the voice assiant. Once the system is listening, the user speaks the utterance and it's transcribed. After transciption it is processed for intent to figure out the meaning. Once the meaning (intent) has been extracted from the utterance, the voice assistant does the requested task triggered by the intent. A response is generated which is spoken by the text to speech system.
 
 Let's walk through a concrete example: a user wants to wake up the voice assistant and ask 'what's the weather like in Munich tomorrow'.
 
