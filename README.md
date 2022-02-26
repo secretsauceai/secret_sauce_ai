@@ -50,31 +50,31 @@ We don't want to leave anyone out, but our scope is currently pretty limited in 
 
 ### Member Projects
 A lot of our Secret Sauce AI members build FOSS voice assistant software. It is always worth checking their software out. We just love this community!
-* 💾 [OpenVoiceOS](https://openvoiceos.com/)
-* 💾 [Athena](https://github.com/Tadashi-Hikari/Athena) and [The Sapphire Assistant Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework)
-* 💾 [Lily](https://github.com/sheosi/lily)
-* 💾 [Leon AI](https://getleon.ai/)
-* 💾 [GLaDOS Voice Assistant](https://github.com/Nerdaxic/GLaDOS-Voice-Assistant)
-* 💾 [V.I.S.O.R.](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
+* 🔥 [OpenVoiceOS](https://openvoiceos.com/)
+* 🔥 [Athena](https://github.com/Tadashi-Hikari/Athena) and [The Sapphire Assistant Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework)
+* 🔥 [Lily](https://github.com/sheosi/lily)
+* 🔥 [Leon AI](https://getleon.ai/)
+* 🔥 [GLaDOS Voice Assistant](https://github.com/Nerdaxic/GLaDOS-Voice-Assistant)
+* 🔥 [V.I.S.O.R.](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
 
 ## Program
 A community must coordinate to be more than the mere sum of its parts. We believe heavily in Agile management, but with an open source twist. Applying traditional project management practices geared for business doesn't always work well in a free and open community made up of people who do what they do on a voluntary basis out of a deep seated passion for AI. Therefore, we try to reduce the risks of these kinds of projects and focus on bringing maxmimum value by rapidly prototyping over building end user solutions. By engaging the community at large and showing the value of the deliverables, those prototypes can trickle down to power future AI in software for end users.
 
-* [Program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
-* [Program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
+* 🗺️ [Program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
+* 🔨 [Program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
 
 ### Projects
 * [Wakeword](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wakeword-Project) (phase 1 of project complete)
     * 📦 [Wakeword Data Collector](https://github.com/secretsauceai/wakeword-data-collector) (prototype done)
     * 📦 [Precise Wakeword Model Maker](https://github.com/secretsauceai/precise-wakeword-model-maker) (prototype done)
     * 📦 [Precise TensorFlow lite engine](https://github.com/OpenVoiceOS/precise-lite) (done)
-    * 📦 [SpeechPy MFCC in Rust](https://github.com/secretsauceai/mfcc-rust) (in progress)
-    * 📦 [Precise Rust runner](https://github.com/sheosi/precise-rs) (prototype in testing)
-* NLU-NLG (phase 1 of project in progress)
+    * 🚧 📦 [SpeechPy MFCC in Rust](https://github.com/secretsauceai/mfcc-rust) (in progress)
+    * 🚧 📦 [Precise Rust runner](https://github.com/sheosi/precise-rs) (prototype in testing)
+* 🚧 NLU-NLG (phase 1 of project in progress)
     * 📔 [NLU engine prototype example and benchmarks](https://github.com/secretsauceai/NLU-engine-prototype-benchmarks) (in progress)
     * 📔 [Snips data set converter](https://github.com/secretsauceai/NLU-snips-converter) (in progress)
 * ASR-TTS
-* Bus (phase 1 of project in progress)
+* 🚧 Bus (phase 1 of project in progress)
     * 📦 [Voice Assistant Protocol (VAP)](https://github.com/secretsauceai/voice-assistant-protocol) (in progress)
 
 
