@@ -4,9 +4,9 @@
 # Secret Sauce AI Overview
 - [Introduction](https://github.com/secretsauceai/secret_sauce_ai#introduction)
 - [The three Secret Sauce AI ingredients](https://github.com/secretsauceai/secret_sauce_ai#ingredients)
-    - [Community](https://github.com/secretsauceai/secret_sauce_ai#community)
-    - [Program](https://github.com/secretsauceai/secret_sauce_ai#program)
-    - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy)
+    - [Community](https://github.com/secretsauceai/secret_sauce_ai#community): community comes first 
+    - [Program](https://github.com/secretsauceai/secret_sauce_ai#program): management, projects, deliverables
+    - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy): values, principles
 - [Introduction to voice assistant data pipelines](https://github.com/secretsauceai/secret_sauce_ai#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines)
 # Introduction
 
@@ -65,17 +65,17 @@ A community must coordinate to be more than the mere sum of its parts. We believ
 
 ### Projects
 * [Wakeword](https://github.com/secretsauceai/secret_sauce_ai/wiki/Wakeword-Project) (phase 1 of project complete)
-    * [Wakeword Data Collector](https://github.com/secretsauceai/wakeword-data-collector) (prototype done)
-    * [Precise Wakeword Model Maker](https://github.com/secretsauceai/precise-wakeword-model-maker) (prototype done)
-    * [Precise TensorFlow lite engine](https://github.com/OpenVoiceOS/precise-lite) (done)
-    * [SpeechPy MFCC in Rust](https://github.com/secretsauceai/mfcc-rust) (in progress)
-    * [Precise Rust runner](https://github.com/sheosi/precise-rs) (prototype in testing)
+    * 📦 [Wakeword Data Collector](https://github.com/secretsauceai/wakeword-data-collector) (prototype done)
+    * 📦 [Precise Wakeword Model Maker](https://github.com/secretsauceai/precise-wakeword-model-maker) (prototype done)
+    * 📦 [Precise TensorFlow lite engine](https://github.com/OpenVoiceOS/precise-lite) (done)
+    * 📦 [SpeechPy MFCC in Rust](https://github.com/secretsauceai/mfcc-rust) (in progress)
+    * 📦 [Precise Rust runner](https://github.com/sheosi/precise-rs) (prototype in testing)
 * NLU-NLG (phase 1 of project in progress)
-    * [NLU engine prototype example and benchmarks](https://github.com/secretsauceai/NLU-engine-prototype-benchmarks) (in progress)
-    * [Snips data set converter](https://github.com/secretsauceai/NLU-snips-converter) (in progress)
+    * 📔 [NLU engine prototype example and benchmarks](https://github.com/secretsauceai/NLU-engine-prototype-benchmarks) (in progress)
+    * 📔 [Snips data set converter](https://github.com/secretsauceai/NLU-snips-converter) (in progress)
 * ASR-TTS
 * Bus (phase 1 of project in progress)
-    * [Voice Assistant Protocol (VAP)](https://github.com/secretsauceai/voice-assistant-protocol) (in progress)
+    * 📦 [Voice Assistant Protocol (VAP)](https://github.com/secretsauceai/voice-assistant-protocol) (in progress)
 
 
 ## Philosophy
