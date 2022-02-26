@@ -50,7 +50,7 @@ We don't want to leave anyone out, but our scope is currently pretty limited in 
 ### Member Projects
 A lot of our Secret Sauce AI members build FOSS voice assistant software. It is always worth checking their software out. We just love this community!
 * 🔥 [OpenVoiceOS](https://openvoiceos.com/)
-* 🔥 [Athena](https://github.com/Tadashi-Hikari/Athena) and [The Sapphire Assistant Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework)
+* 🔥 [Athena](https://github.com/Tadashi-Hikari/Athena) and 🔥 [The Sapphire Assistant Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework)
 * 🔥 [Lily](https://github.com/sheosi/lily)
 * 🔥 [Leon AI](https://getleon.ai/)
 * 🔥 [GLaDOS Voice Assistant](https://github.com/Nerdaxic/GLaDOS-Voice-Assistant)
