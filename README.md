@@ -57,7 +57,7 @@ A lot of our Secret Sauce AI members build FOSS voice assistant software. It is 
 * 🔥 [V.I.S.O.R.](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
 
 ## Program
-A community must coordinate to be more than the mere sum of its parts. We believe heavily in Agile management, but with an open source twist. Applying traditional project management practices geared for business doesn't always work well in a free and open community made up of people who do what they do on a voluntary basis out of a deep seated passion for AI. Therefore, we try to reduce the risks of these kinds of projects and focus on bringing maxmimum value by rapidly prototyping over building end user solutions. By engaging the community at large and showing the value of the deliverables, those prototypes can trickle down to power future AI in software for end users.
+A community must coordinate to be more than the mere sum of its parts. We believe heavily in [Agile](https://agilemanifesto.org/) management, but with an open source twist. Applying traditional project management practices geared toward business doesn't always work well in a free and open community made up of people who work on a voluntary basis out of a deep seated passion for AI. Therefore, we try to reduce the risks of these kinds of projects and focus on bringing maxmimum value by rapidly prototyping over building end user solutions. By engaging the community at large and showing the value of the deliverables, those prototypes can trickle down to power future AI in software for end users.
 
 * 🗺️ [Program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
 * 🔨 [Program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
