@@ -36,7 +36,7 @@ We are nothing without the community behind us, and this is why community always
 * Tinkerer
 * User
 
-Our current focus is on developers and data scientists. These are the folks that are building the technology that will trickle down to tinkerkers and users.
+Our current focus is on developers and data scientists. These are the folks that are building the technology that will trickle down to tinkerers and users.
 
 ### Are you a developer or data scientist interested in joining our community?
 After reading through our program overview and other relevent links:
