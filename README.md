@@ -7,12 +7,12 @@
     - [Community](https://github.com/secretsauceai/secret_sauce_ai#community): community comes first 
     - [Program](https://github.com/secretsauceai/secret_sauce_ai#program): management, projects, deliverables
     - [Philosophy](https://github.com/secretsauceai/secret_sauce_ai#philosophy): values, principles
-- [Introduction to voice assistant data pipelines](https://github.com/secretsauceai/secret_sauce_ai#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines)
+- [Intro to voice assistant data pipelines](https://github.com/secretsauceai/secret_sauce_ai#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines)
 # Introduction
 
 Secret Sauce AI is a coordinated community of tech minded AI enthusiasts working together on projects to identify blockers and improve the basic open source tools and pipeline components in the AI (voice) assistant pipeline (wakeword, ASR, NLU, NLG, TTS). The focus is mostly geared toward deployment on edge devices and self hosted solutions. This is not a voice assistant project in and of itself, rather Secret Sauce AI helps AI (voice) assistant projects come together as individuals and solve basic problems faced by the entire community.
 
-Although this community is geared toward developers and data scientists in the FOSS (voice) AI assistant community, we hope our projects will trickle down to end users. If you are reading this as a casual reader, it is recommened to read the [introduction to voice assistants](https://github.com/secretsauceai/secret_sauce_ai#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines) first to have a bit of background on this subject. 
+Although this community is focused on developers and data scientists in the FOSS (voice) AI assistant community, we hope our projects will trickle down to end users. If you are reading this as a casual reader, it is recommened to read the [introduction to voice assistants](https://github.com/secretsauceai/secret_sauce_ai#for-the-casual-reader-introduction-to-voice-assistant-data-pipelines) first to have a bit of background on this subject. 
 
 <img align="left" height=45% width=45% src="https://github.com/secretsauceai/secret_sauce_ai/blob/main/SSAI_3_main_ingredients_compressed_cropped.png " />
 
@@ -120,7 +120,7 @@ For the casual reader, these subjects can be hard to understand (how voice assis
 
 ## Voice assistant pipeline
 ![Voice assistant pipeline](https://github.com/secretsauceai/secret_sauce_ai/blob/main/Voice_Assistant_Pipeline.png)
-Let's take a look at the basic components. It starts with a user who wants to 'wake' the voice assiant. Once the system is listening, the user speaks the utterance and it's transcribed. After transciption it is processed for intent to figure out the meaning. Once the meaning (intent) has been extracted from the utterance, the voice assistant does the requested task triggered by the intent. A response is generated which is spoken by the text to speech system.
+Let's take a look at the basic components. It starts with a user who wants to 'wake' the voice assistant. Once the system is listening, the user speaks the utterance and it's transcribed. After transciption it is processed for intent to figure out the meaning. Once the meaning (intent) has been extracted from the utterance, the voice assistant does the requested task triggered by the intent. A response is generated which is spoken by the text to speech system.
 
 Let's walk through a concrete example: a user wants to wake up the voice assistant and ask 'what's the weather like in Munich tomorrow'.
 
