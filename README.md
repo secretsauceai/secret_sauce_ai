@@ -97,7 +97,7 @@ A similar approach when applied to running model inference locally is called [Ti
 
 In the TinyML+ learning cycle, data is collected from the user, a model is trained from the data, the model is used by the user where defects can be found, and further data collection leads to a closed cycle of learning. 
 
-Simple put: instead of general models based on collection of user's personal data, the data stays on the user's device where it is used to train a model locally.
+Simply put: instead of general models based on collection of user's personal data, the data stays on the user's device where it is used to train a model locally.
 
 This local model belongs to the user, just as much as the data used to train this model.
 
