@@ -39,9 +39,10 @@ Our current focus is on developers and data scientists. These are the folks that
 
 ### Are you a developer or data scientist interested in joining our community?
 After reading through our program overview and other relevent links:
+* For a broad overview of all things Secret Sauce, have a look at the 📚 [Program overview](https://github.com/users/secretsauceai/projects/1/views/1)
 * Check out our 🗺️ [Program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
-* Have a look at the 🔨 [Program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
-* Join our [Slack](https://join.slack.com/t/secretsauceorg/shared_invite/zt-19slep7px-pG8ftBU2Qb7ZciidUrPO7A)
+* Have a look at the 🔨 [Program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1) for a collection of issues.
+* Join our [Slack](https://join.slack.com/t/secretsauceorg/shared_invite/zt-1c3gtf6sz-Ygr5D1u1pyepDlJAZKdPWg) (NOTE: I don't always update this often enough since the link expires after a week. If it doesn't work, come find me on reddit or open an issue.)
 
 ### I'm a tinkerer or user, what about me?
 We don't want to leave anyone out, but our scope is currently pretty limited in engaging users and tinkerers. You can always write me (Bartmoss) directly on [reddit](https://www.reddit.com/user/Bartmoss) or you can check out many of the projects built for users and tinkerers alike by our community. 
@@ -58,6 +59,7 @@ A lot of our Secret Sauce AI members build FOSS voice assistant software. It is 
 ## Program
 A community must coordinate to be more than the mere sum of its parts. We believe heavily in [Agile](https://agilemanifesto.org/) management, but with an open source twist. Applying traditional project management practices geared toward business doesn't always work well in a free and open community made up of people who work on a voluntary basis out of a deep seated passion for AI. Therefore, we try to reduce the risks of these kinds of projects and focus on bringing maxmimum value by rapidly prototyping over building end user solutions. By engaging the community at large and showing the value of the deliverables, those prototypes can trickle down to power future AI in software for end users.
 
+* 📚 [Program overview](https://github.com/users/secretsauceai/projects/1/views/1)
 * 🗺️ [Program roadmap](https://github.com/secretsauceai/secret_sauce_ai/projects/2)
 * 🔨 [Program Kanban board](https://github.com/secretsauceai/secret_sauce_ai/projects/1)
 
